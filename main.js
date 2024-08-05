@@ -4,6 +4,7 @@ console.log("Ваше имя  " + myName );
 var age = prompt("Введите ваш возраст:");
 console.log("Ваше возраст  " + age );
 
+
 var q1 = +prompt("Решите пример: 7 + 4");
 console.log("7 + 4 = 11 (" + myName + " Ваш ответ " + q1 + ")");
 
